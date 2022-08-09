@@ -21,4 +21,8 @@ public class TestController {
         return "dev1";
     }
 
+    public String dev2(){
+        return "dev2";
+    }
+
 }
