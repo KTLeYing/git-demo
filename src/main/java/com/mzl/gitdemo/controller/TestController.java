@@ -13,4 +13,8 @@ public class TestController {
         return "master";
     }
 
+    public String dev(){
+        return "dev";
+    }
+
 }
